@@ -1,5 +1,4 @@
-[7:01 pm, 27/11/2019] Hemanth🤓: 🙏🏻
-[7:34 pm, 27/11/2019] Hemanth🤓: // flooding
+// Cpp program to demonstrate the flooding mechanism.
 
 #include <iostream>
 using namespace std;
